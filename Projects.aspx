@@ -6,7 +6,7 @@
     <title>Projects</title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no" />
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/grid.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/contact-form.css">
@@ -37,7 +37,7 @@
             <div class="container">
                 <div class="header_inner">
                     <h1><a href="index.html">
-                        <img src="images/logo.jpg" style="height:100%;width:100%" alt="xDPx"></a></h1>
+                        <img src="Images/logo.jpg" style="height:100%;width:100%" alt="xDPx"></a></h1>
                     <br>
                     <nav>
                         <ul class="sf-menu">
